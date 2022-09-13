@@ -10,7 +10,8 @@ public class Main {
 		System.out.println("Digite um numero real: ");
 		num = sc.nextFloat();
 		System.out.println("Numero digitado: " + num);
-
+		
+		sc.close();
 	}
-
+	
 }

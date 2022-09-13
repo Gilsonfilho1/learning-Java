@@ -12,7 +12,7 @@ public class Main {
 		num = sc.nextInt();
 		System.out.println("numero digitado: "+ num);
 		
-
+		sc.close();
 	}
 
 }
